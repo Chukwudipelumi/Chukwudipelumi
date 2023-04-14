@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chukwudipelumi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate website/ landing page creation
+- 💞️ I’m looking to collaborate website/ landing page
 - 📫 How to reach me twitter.
 
 <!---
